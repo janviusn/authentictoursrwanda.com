@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+paypal.com	TRUE	/	FALSE	1999999999	X-PP-L7	1
+www.paypal.com	TRUE	/	FALSE	1999999999	akavpau_ppsd	1586215496~id=02784d8609c77f7016071e6f7e1a0368
+www.paypal.com	TRUE	/	FALSE	1999999999	SameSite	None
+
